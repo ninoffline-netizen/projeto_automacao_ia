@@ -1,0 +1,13 @@
+=== RELATÓRIO GERENCIAL EXECUTIVO ===
+Gerado automaticamente via Python & IA
+
+1. DESEMPENHO FINANCEIRO GLOBAL
+- O Faturamento Geral da empresa no período foi de: R$ 85,650.00
+
+2. ANÁLISE DE PRODUTO
+- O produto campeão absoluto de vendas foi o 'Smartphone'.
+- Ele gerou sozinho um faturamento de: R$ 40,000.00
+
+3. ANÁLISE REGIONAL
+- A região com maior eficiência comercial foi a 'Sudeste'.
+- O faturamento registrado nesta localidade foi de: R$ 36,900.00
